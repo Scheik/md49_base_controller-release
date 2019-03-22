@@ -1,3 +1,29 @@
+## md49_base_controller (melodic) - 0.1.4-0
+
+The packages in the `md49_base_controller` repository were released into the `melodic` distro by running `/usr/bin/bloom-release md49_base_controller --track melodic --rosdistro melodic --new-track` on `Fri, 22 Mar 2019 18:24:00 -0000`
+
+These packages were released:
+- `md49_base_controller`
+- `md49_messages`
+- `md49_serialport`
+
+Version of package(s) in repository `md49_base_controller`:
+
+- upstream repository: https://github.com/Scheik/md49_base_controller.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## md49_base_controller (kinetic) - 0.1.4-1
 
 The packages in the `md49_base_controller` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release md49_base_controller --track kinetic --rosdistro kinetic --new-track` on `Wed, 30 Mar 2016 20:07:57 -0000`
